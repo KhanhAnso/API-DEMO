@@ -1,27 +1,27 @@
 {
 	"list":[
 		{
-			"id":1
-			"title":"Mr Potato"
-			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/mr_potato.jpeg"
+			"id":1,
+			"title":"Mr Potato",
+			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/mr_potato.jpeg",
 			"url":"https://www.daily4love.com/games/play/mr-potato"	
 		}
 		{
-			"id":2
-			"title":"Bouncing Squirrel"
-			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/bouncing_squirrel.jpeg"
+			"id":2,
+			"title":"Bouncing Squirrel",
+			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/bouncing_squirrel.jpeg",
 			"url":"https://www.daily4love.com/games/play/bouncing-squirrel"	
 		}
 		{
-			"id":3
-			"title":"Kawaii Jump"
-			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/kawaii_jump.jpeg"
+			"id":3,
+			"title":"Kawaii Jump",
+			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/kawaii_jump.jpeg",
 			"url":"https://www.daily4love.com/games/play/kawaii-jump"	
 		}
 		{
-			"id":4
-			"title":"Cat Rolling"
-			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/cat_rolling.jpeg"
+			"id":4,
+			"title":"Cat Rolling",
+			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/cat_rolling.jpeg",
 			"url":"https://www.daily4love.com/games/play/cat-rolling"	
 		}
 		]
