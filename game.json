@@ -23,6 +23,12 @@
 			"title":"Cat Rolling",
 			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/cat_rolling.jpeg",
 			"url":"https://www.daily4love.com/games/play/cat-rolling"	
+		},
+		{
+			"id":5,
+			"title":"Bouncing Squirrel",
+			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/bouncing_squirrel.jpeg",
+			"url":"https://www.daily4love.com/games/play/bouncing-squirrel"	
 		}
 		]
 }
