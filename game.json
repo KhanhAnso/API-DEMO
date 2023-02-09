@@ -30,5 +30,35 @@
 			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/bouncing_squirrel.jpeg",
 			"url":"https://www.daily4love.com/games/play/bouncing-squirrel"	
 		}
+{
+			"id":6,
+			"title":"Mr Potato",
+			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/mr_potato.jpeg",
+			"url":"https://www.daily4love.com/games/play/mr-potato"	
+		},
+		{
+			"id":7,
+			"title":"Bouncing Squirrel",
+			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/bouncing_squirrel.jpeg",
+			"url":"https://www.daily4love.com/games/play/bouncing-squirrel"	
+		},
+		{
+			"id":8,
+			"title":"Kawaii Jump",
+			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/kawaii_jump.jpeg",
+			"url":"https://www.daily4love.com/games/play/kawaii-jump"	
+		},
+		{
+			"id":9,
+			"title":"Cat Rolling",
+			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/cat_rolling.jpeg",
+			"url":"https://www.daily4love.com/games/play/cat-rolling"	
+		},
+		{
+			"id":10,
+			"title":"Bouncing Squirrel",
+			"thumbnail":"https://game.daily4love.com/thumb-items/jpeg/bouncing_squirrel.jpeg",
+			"url":"https://www.daily4love.com/games/play/bouncing-squirrel"	
+		}
 		]
 }
