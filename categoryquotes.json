@@ -63,7 +63,8 @@
 	},
 {
 "id::3,
-	"title":"Christmas",thumbnail:"https://www.invert.vn/media/uploads/uploads/2022/12/03143733-11-hinh-anh-dep.jpeg",
+	"title":"Christmas",
+"thumbnail":"https://www.invert.vn/media/uploads/uploads/2022/12/03143733-11-hinh-anh-dep.jpeg",
 	"data":[
 		{
 		"id":1,
@@ -92,7 +93,7 @@
 	},
 {
 "id":4,
-	"title":"Women’s day",thumbnail:"https://www.invert.vn/media/uploads/uploads/2022/12/03143708-8-hinh-anh-dep.jpeg",
+	"title":"Women’s day","thumbnail":"https://www.invert.vn/media/uploads/uploads/2022/12/03143708-8-hinh-anh-dep.jpeg",
 	"data":[
 		{
 		"id":1,
