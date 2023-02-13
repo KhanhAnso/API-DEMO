@@ -36,28 +36,29 @@
 			"title":"Flower",
 			"thumbnail":"https://www.invert.vn/media/uploads/uploads/2022/12/03143748-12-hinh-anh-dep.jpeg",
 			"data":[
-				{
+			{
 			"id":1,
-			"content":"Christmas is like candy, it slowly melts in your mouth sweetening every taste bud, making you wish it could last forever"},
+			"url":"https://files.daily4love.com/bg/thumb/ffe60e1f67b6444e9bc828c3679ae92b.jpeg"
+			},
 			{
 			"id":2,
-			"content":"The best way to spread Christmas cheer is singing loud for all to hear."
+			"url":"https://files.daily4love.com/bg/thumb/dbb5e194c694aa134c654002a4eb6f9d.jpeg"
 			},
 			{
 			"id":3,
-			"content":"At Christmas, all roads lead home."
+			"url":"https://files.daily4love.com/bg/thumb/0ccb60fe328d13b7017b63c1c1107836.jpeg"
 			},
 			{
 			"id":4,
-			"content":"Christmas is the spirit of giving without a thought of getting. It is happiness because we see joy in people. It is forgetting self and finding time for others. It’s discarding the meaningless and stressing the true values."
+			"url":"https://files.daily4love.com/bg/thumb/9f56dbf9db33dd5f0185a2cbf96062c7.jpeg"
 			},
 			{
 			"id":5,
-			"content":"The best way to spread Christmas cheer is singing loud for all to hear."
+			"url":"https://files.daily4love.com/bg/thumb/c89eb7f1867801bc7d72fa027ee7ba62.jpeg"
 			},
 			{
 			"id":6,
-			"content":"The best way to spread Christmas cheer is singing loud for all to hear."
+			"url":"https://files.daily4love.com/bg/thumb/c5c5e87475b0757baa0e41452c6f5a1c.jpeg"
 			}
 			]
 	},
